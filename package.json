@@ -9,7 +9,15 @@
   "author": "lfriveraco <luis.rivera@digisoftcolombia.com>",
   "license": "MIT",
   "bin": {
-    "random-msg": "../bin/global.js"
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lfriveraco/random-messages-lf.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lfriveraco/random-messages-lf/issues"
+  },
+  "homepage": "https://github.com/lfriveraco/random-messages-lf#readme"
 }
