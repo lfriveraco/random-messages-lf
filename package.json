@@ -1,0 +1,15 @@
+{
+  "name": "random-messages-lf",
+  "version": "1.0.0",
+  "description": "random messages",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lfriveraco <luis.rivera@digisoftcolombia.com>",
+  "license": "MIT",
+  "bin": {
+    "random-msg": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
